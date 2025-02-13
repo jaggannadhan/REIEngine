@@ -1,6 +1,7 @@
 # REIEngine
 ## Backend for Real Estate Investment Project CS682
 
+![Fletch_preview_02](https://github.com/user-attachments/assets/33502439-63f1-4689-848e-802f3bcdadc2)
 
 ### Setup a virtual environment
 python3 -m venv venv
